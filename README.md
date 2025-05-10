@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **e-commerce website**
+- 🔭 I’m currently working on **ML Projects**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next.JS**
 
 - 📫 How to reach me **piyushmandloi474@gmail.com**
 
