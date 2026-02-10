@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **ML Projects**
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Jest**
 
 - 📫 How to reach me **piyushmandloi474@gmail.com**
 
